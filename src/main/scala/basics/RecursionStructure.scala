@@ -1,7 +1,7 @@
 package basics
 
 // object keyword creates a new singleton.
-object ObjectStructure {
+object RecursionStructure {
 
   /*
   Find the absolute value.

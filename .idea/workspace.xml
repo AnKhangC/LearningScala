@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42763b00-e7d3-4b0c-9c18-6b89cb193071" name="Default Changelist" comment="" />
+    <list default="true" id="42763b00-e7d3-4b0c-9c18-6b89cb193071" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Runner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Runner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/basics/ObjectStructure.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/basics/RecursionStructure.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Runner$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Runner$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/basics/ObjectStructure$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/basics/ObjectStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/basics/PolymorphicFuntions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/basics/PolymorphicFuntions$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/basics/PolymorphicFuntions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/basics/PolymorphicFuntions.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +27,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Z97dmpIbtK5yJn9nEXUxUEPmXA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -92,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584239545991</updated>
       <workItem from="1584239550399" duration="1908000" />
-      <workItem from="1584285462025" duration="7589000" />
+      <workItem from="1584285462025" duration="8975000" />
     </task>
     <servers />
   </component>
@@ -100,25 +117,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="220" key="GridCell.Tab.0.bottom" timestamp="1584294594168">
+    <state width="1874" height="220" key="GridCell.Tab.0.bottom" timestamp="1584298985059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="220" key="GridCell.Tab.0.bottom/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584294594168" />
+    <state width="1874" height="220" key="GridCell.Tab.0.bottom/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584298985059" />
     <state width="1874" height="210" key="GridCell.Tab.0.bottom/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584241459601" />
-    <state width="1874" height="220" key="GridCell.Tab.0.center" timestamp="1584294594168">
+    <state width="1874" height="220" key="GridCell.Tab.0.center" timestamp="1584298985059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="220" key="GridCell.Tab.0.center/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584294594168" />
+    <state width="1874" height="220" key="GridCell.Tab.0.center/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584298985059" />
     <state width="1874" height="210" key="GridCell.Tab.0.center/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584241459601" />
-    <state width="1874" height="220" key="GridCell.Tab.0.left" timestamp="1584294594168">
+    <state width="1874" height="220" key="GridCell.Tab.0.left" timestamp="1584298985059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="220" key="GridCell.Tab.0.left/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584294594168" />
+    <state width="1874" height="220" key="GridCell.Tab.0.left/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584298985059" />
     <state width="1874" height="210" key="GridCell.Tab.0.left/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584241459601" />
-    <state width="1874" height="220" key="GridCell.Tab.0.right" timestamp="1584294594168">
+    <state width="1874" height="220" key="GridCell.Tab.0.right" timestamp="1584298985059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="220" key="GridCell.Tab.0.right/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584294594168" />
+    <state width="1874" height="220" key="GridCell.Tab.0.right/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584298985059" />
     <state width="1874" height="210" key="GridCell.Tab.0.right/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584241459601" />
   </component>
 </project>
