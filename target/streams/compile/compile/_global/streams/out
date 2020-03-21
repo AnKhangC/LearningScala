@@ -1,2 +1,5 @@
-[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/ankhang/data/projects/scala/learn/project/target/.sbt-compilation-infos/learn-compile/.sbt-idea-lock ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/ankhang/data/projects/scala/learn/project/target/.sbt-compilation-infos/learn-compile/.sbt-idea-lock.[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/ankhang/data/projects/scala/learn/src/main/scala/Runner.scala:66:19: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: None[0m
+[0m[[0m[33mwarn[0m] [0m[0m      }).map(x => x match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
