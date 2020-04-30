@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42763b00-e7d3-4b0c-9c18-6b89cb193071" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/dataStructures/List.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/errorHandling/Option.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Runner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Runner.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Runner$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Runner$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/active.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +106,8 @@
       <workItem from="1584661158374" duration="6670000" />
       <workItem from="1584744784267" duration="2895000" />
       <workItem from="1584748610615" duration="4846000" />
+      <workItem from="1584897165871" duration="127000" />
+      <workItem from="1586370743808" duration="835000" />
     </task>
     <servers />
   </component>
@@ -117,6 +115,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="744" y="297" width="428" height="487" key="FileChooserDialogImpl" timestamp="1586371573608">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="744" y="297" width="428" height="487" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586371573608" />
     <state width="1874" height="133" key="GridCell.Tab.0.bottom" timestamp="1584667829844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -141,5 +143,9 @@
       <screen x="1920" y="114" width="1920" height="1080" />
     </state>
     <state x="2476" y="400" width="802" height="500" key="Vcs.Push.Dialog.v2/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584661071565" />
+    <state x="335" y="278" width="1243" height="521" key="new project wizard" timestamp="1586371577359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="335" y="278" width="1243" height="521" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586371577359" />
   </component>
 </project>
