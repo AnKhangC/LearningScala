@@ -10,20 +10,24 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Z95mEyIfiEYNxSNaIybYBQ1ZKh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,11 +46,12 @@
       <workItem from="1584238627573" duration="222000" />
       <workItem from="1584238867877" duration="539000" />
       <workItem from="1584239436057" duration="112000" />
+      <workItem from="1588358830434" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2690" y="550" width="394" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584238961722">
@@ -57,9 +62,10 @@
       <screen x="1920" y="114" width="1920" height="1080" />
     </state>
     <state x="2728" y="525" width="294" height="215" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584238896256" />
-    <state x="2806" y="449" key="FileChooserDialogImpl" timestamp="1584239531225">
-      <screen x="1920" y="114" width="1920" height="1080" />
+    <state x="886" y="335" width="428" height="458" key="FileChooserDialogImpl" timestamp="1588358908766">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="886" y="335" width="428" height="458" key="FileChooserDialogImpl/1920.114.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1588358908766" />
     <state x="2806" y="449" key="FileChooserDialogImpl/1920.114.1920.1080/0.0.1920.1080@1920.114.1920.1080" timestamp="1584239531225" />
     <state x="2381" y="268" key="SettingsEditor" timestamp="1584239351049">
       <screen x="1920" y="114" width="1920" height="1080" />

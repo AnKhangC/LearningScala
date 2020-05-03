@@ -1,5 +1,6 @@
 import basics.{RecursionStructure, PolymorphicFuntions}
-//import dataStructures.{List}
+import dataStructures.{List}
+import laziness.{Stream}
 
 object Runner extends App {
   println("Exercises Runnner.")
@@ -59,4 +60,13 @@ object Runner extends App {
   // val l4 = 1::2::3::4::5::Nil
   // println((1 :: l4.tail ::: l4.tail).map( (x: Int) => x*2 ))
 
+
+  /*
+  LAZYNESS
+   */
+
+  // Stream.
+  val s1 = Stream.apply(1,2,3,4,5)
+  println("s1 head = " + Stream.getHead(s1))
+  print("s1 = "); Stream.printStream(s1)
 }
